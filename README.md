@@ -39,7 +39,7 @@ A video is provided showcasing the edge detection outputs from all methods, comp
   ```bash
   pip install -r requirements.txt
   ```
-- Ensure that `trained_unet.pth` is available in `models/pytorch_unet/unet/`
+- Ensure that `trained_unet.pth` is available in `models/pytorch_unet/unet/` from the pytorch repo
 - Use the provided Jupyter notebooks to run traditional and deep learning edge detection methods.
 
 ### Running the Notebooks
